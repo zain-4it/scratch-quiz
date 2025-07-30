@@ -1,2 +1,4 @@
 # scratch-quiz
-This project is a simple general knowledge quiz game built using Scratch. The game present a series of questions and checks the user's  answers in real-time. The main features include : 
+This is a simple general knowledge quiz game built with Scratch, featuring dynamic Q&A using lists, score tracking, character animations, and custom blocks. It demonstrates core programming concepts like loops, variables, and conditionals.
+
+This project was created as part of my application for a CS50 community job.
